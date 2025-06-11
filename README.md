@@ -37,6 +37,6 @@
    
 5. deployment & have fun playing it:
    ```bash
-   
+   https://nfac-2d-game.vercel.app
    ```
 
